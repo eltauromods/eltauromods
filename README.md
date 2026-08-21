@@ -66,7 +66,6 @@ Currently open to internships, freelance collaborations, and full-time opportuni
 </div>
 <br>
 
-<!-- FAITH -->
 <div align="center">
   <img src="https://media.giphy.com/media/3o7aCTfyhEqxAulWyk/giphy.gif" width="30" height="30" style="vertical-align:middle;" />
   &nbsp;
