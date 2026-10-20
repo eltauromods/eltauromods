@@ -1,0 +1,259 @@
+
+EL TAURO MODS · NOTA OFICIAL DE MODS DE WHATSAPP
+====================================================
+
+Hola, bienvenido. Soy El Tauro Mods. Aquí tienes, mod por mod, de qué base nació cada uno, cómo evolucionó y dónde descargar todas sus versiones.
+
+█▀█   █▀▀▀█   █▀█   █▀▀
+░▄▀   █░░▒█   ░▄▀   ▀▀▄
+█▄▄   █▄▄▄█   █▄▄   ▄▄▀
+
+----------------------------------------------------
+WA MESSENGER + (última: v8)
+----------------------------------------------------
+WA Messenger + es el mod de WhatsApp de El Tauro Mods para quien prefiere una experiencia limpia, ligera y con estética iOS. Nació sobre la base Tiago Mods (Brasil), elegida por su diseño cuidado, su estructura ordenada y sus emojis estilo iOS. Con el tiempo pasó a MrMods WhatsApp Lite y a WhatsApp Go, siempre sobre bases limpias y con la personalización propia de Tauro. Su historial va de la v1 a la v8, y las versiones anteriores se descargan directo más abajo. Su interfaz se viste de tonos verde, a juego con el icono, y puedes cambiarla por completo con temas, colores, fondos y estilos propios. En privacidad permite ocultar la última conexión, los ticks azules, el «escribiendo» y el «grabando», además de ver los mensajes y estados que tus contactos eliminan. También incluye envío de imágenes en alta calidad, descarga de estados y bloqueo de la app con PIN o patrón.
+
+Bases utilizadas: Tiago Mods → MrMods WhatsApp Lite → WhatsApp Go
+
+Versiones (★ = última versión):
+    v1: https://www.mediafire.com/file/g2tv3zbeo33fuif/WhatsApp_Messenger_Plus_v1_TM_MODS.apk/file
+    v2: https://www.mediafire.com/file/cam4sumb35pa349/WA_Messenger_Plus_V2_EL_TAURO_MODS.apk/file
+    v3: https://www.mediafire.com/file/no42xgr5kb1f1eg/WA_Messenger_Plus_V3_BY_TM_MODS.apk/file
+    v4: https://www.mediafire.com/file/lgqd7z7uxct6zsp/WA_Messenger_Plus_V4_BY_TM_MODS.apk/file
+    v6: https://www.mediafire.com/file/do000ipcdy4yolt/WhatsApp%252B_TM-MODS_V6_.apk/file
+    v7 [Carpeta con varios paquetes]: https://www.mediafire.com/folder/ggiy4m2rqqflr/Wa+messenger+plus+v7
+  ★ v8 [Carpeta con varios paquetes]: https://www.mediafire.com/folder/185dl809ovx8i/WA+Messenger+++v8
+
+----------------------------------------------------
+SOLITARIO (última: v13)
+----------------------------------------------------
+Solitario es la línea con más versiones de El Tauro Mods, desde la v1 hasta la v13. Está desarrollada sobre la base OG WhatsApp Pro de Abu Saleh y, versión tras versión, fue sumando mejoras y personalización propia de Tauro. Pasó por ediciones Gold, Extreme, corregidas y con anti-baneo; hasta la v11 se llamó SAD y desde la v12 se publica como Solitario. La última versión se descarga con verificación y las anteriores, de forma directa. Su interfaz se viste de tonos gris plateado, a juego con el icono, y puedes cambiarla por completo con temas, colores, fondos y estilos propios. En privacidad permite ocultar la última conexión, los ticks azules, el «escribiendo» y el «grabando», además de ver los mensajes y estados que tus contactos eliminan. También incluye envío de imágenes en alta calidad, descarga de estados y bloqueo de la app con PIN o patrón.
+
+Bases utilizadas: OG WhatsApp Pro (Abu Saleh)
+
+Versiones (★ = última versión):
+    v1: https://www.mediafire.com/file/wgoc1yiq683l9f3/%25C5%259E%25CE%2594%25C4%2590_%25E2%25A9%2594-1.apk/file
+    v2: https://www.mediafire.com/file/ox9jjcfk5b474xa/%25F0%259D%2590%2596%25F0%259D%259A%25AE%25F0%259D%259A%25AB%25F0%259D%2590%2593%25F0%259D%2590%2592%25F0%259D%259A%25AB%25F0%259D%259A%25B8%25F0%259D%259A%25B8_%25F0%259D%2590%2592%25F0%259D%259A%25AB%25F0%259D%2590%2583_%25E2%25A9%25942.apk/file
+    v3 [VIP]: https://www.mediafire.com/file/3534lc0o6gttrr8/%25F0%259D%2590%2592%25F0%259D%259A%25AB%25F0%259D%2590%2583_%25E2%25A9%25943_Vip.apk/file
+    v4: https://www.mediafire.com/file/82qsa0vg5q401w8/%25F0%259D%2590%2592%25F0%259D%259A%25AB%25F0%259D%2590%2583_%25E2%25A9%2594%25F0%259D%259F%2592.apk/file
+    v5 [Gold · VIP]: https://www.mediafire.com/file/qjokbmfy8qpkd7s/%25F0%259D%2590%2592%25F0%259D%259A%25AB%25F0%259D%2590%2583_%25E2%25A9%2594%25F0%259D%259F%2593_%2528Gold_versi%25C3%25B3n%2529_Vip.apk/file
+    v6: https://www.mediafire.com/file/3o7e7mo4bpz1b1i/%25F0%259D%2590%2592%25F0%259D%259A%25AB%25F0%259D%2590%2583_%25E2%25A9%2594%25F0%259D%259F%2594.apk/file
+    v7 [Gold]: https://www.mediafire.com/file/pina399clywqe8c/%25F0%259D%2590%2592%25F0%259D%259A%25AB%25F0%259D%2590%2583_%25E2%25A9%2594%25F0%259D%259F%2595_GOLD.apk/file
+    v8 [Extreme · Gold]: https://www.mediafire.com/file/w0s8styh764mauc/%25F0%259D%2590%2592%25F0%259D%259A%25AB%25F0%259D%2590%2583_%25E2%25A9%2594%25F0%259D%259F%2596_GOLD_EXTREME_.apk/file
+    v9 [Extreme · Gold]: https://www.mediafire.com/file/82fl9pufk4sxbmg/%25F0%259D%2590%2592%25F0%259D%259A%25AB%25F0%259D%2590%2583_%25E2%25A9%2594%25F0%259D%259F%2597_EXTREME_GOLD_.apk/file
+    v10: https://www.mediafire.com/file/z92gs4ehk59gwhg/%25F0%259D%2590%2592%25F0%259D%259A%25AB%25F0%259D%2590%2583_%25E2%25A9%2594%25F0%259D%259F%258F%25F0%259D%259F%258E_BY-_EL_TAURO_MODS_.apk/file
+    v11 [Anti-ban]: https://www.mediafire.com/file/xj0d8yqefxj4b24/%25F0%259D%2590%2592%25F0%259D%259A%25AB%25F0%259D%2590%2583_%25E2%25A9%2594%25F0%259D%259F%258F%25F0%259D%259F%258F.%25F0%259D%2590%2585%25F0%259D%2590%2597_BY_EL_TM_MODS_ANTI-BAN_.apk/file
+    v11.F (corregida) [Corregido]: https://www.mediafire.com/file/n7rra796gaodqn6/%25F0%259D%2590%2592%25F0%259D%259A%25AB%25F0%259D%2590%2583_%25E2%25A9%2594%25F0%259D%259F%258F%25F0%259D%259F%258F.%25F0%259D%2590%2585_BY_EL_TM_MODS_CORREGIDO_.apk/file
+    v12: https://www.mediafire.com/file/w196mpkfi2u7w36/%25F0%259D%2590%2592%25F0%259D%2590%258E%25F0%259D%2590%258B%25F0%259D%2590%2588%25F0%259D%2590%2593%25F0%259D%2590%2580%25F0%259D%2590%2591%25F0%259D%2590%2588%25F0%259D%2590%258E%25E1%25A3%25B4%25E2%2582%2590%25E1%25B5%2596%25E4%25B9%2582_%25E2%25A9%2594%25F0%259D%259F%258F%25F0%259D%259F%2590_TM-MODS.apk/file
+  ★ v13: https://www.mediafire.com/file/ypadvzlibum5t4q/%25E2%258F%25A4%25CD%259F%25CD%259E%25CD%259F%25CD%259E%25E2%259D%25A5%25F0%259D%2590%2592%25F0%259D%259A%25AF%25F0%259D%2590%258B%25F0%259D%259A%25B0%25F0%259D%259A%25BB%25F0%259D%259A%25AB%25F0%259D%2590%2591%25F0%259D%259A%25B0%25F0%259D%259A%25AF_%25E2%25A9%2594%25F0%259D%259F%258F%25F0%259D%259F%2591_BY_TAURO_.apk/file
+
+----------------------------------------------------
+SHANTHALL (última: v12)
+----------------------------------------------------
+Shanthall es un mod de WhatsApp de El Tauro Mods con mucha personalización sobre bases muy distintas. Empezó sobre CrisMods, pasó por NS WhatsApp (de Nairton Silva, Brasil) y se consolidó finalmente sobre MS Mods, con numerosas modificaciones de Tauro. Su historial va de la v3 a la v12 e incluye ediciones Extreme, versiones corregidas y una edición anti-baneo. La última versión se descarga con verificación y las anteriores, con enlace directo. Su interfaz se viste de tonos café, a juego con el icono, y puedes cambiarla por completo con temas, colores, fondos y estilos propios. En privacidad permite ocultar la última conexión, los ticks azules, el «escribiendo» y el «grabando», además de ver los mensajes y estados que tus contactos eliminan. También incluye envío de imágenes en alta calidad, descarga de estados y bloqueo de la app con PIN o patrón.
+
+Bases utilizadas: CrisMods → NS WhatsApp → MS Mods
+
+Versiones (★ = última versión):
+    v3: https://www.mediafire.com/file/h0ke1lwpl9p4d2e/%25D5%258F%25C9%25A7%25C9%2591%25D5%25B2%25C6%25AC%25C9%25A7%25C9%2591%25C6%2596l_%25E1%25B4%25A03.apk/file
+    v4: https://www.mediafire.com/file/e219mwatzrdrjm9/%25D5%258F%25C9%25A7%25C9%2591%25D5%25B2%25C6%25AC%25C9%25A7%25C9%2591%25C6%2596l_%25E1%25B4%25A04_.apk/file
+    v5: https://www.mediafire.com/file/re0mwxzd1cas946/%25D5%258F%25C9%25A7%25C9%2591%25D5%25B2%25C6%25AC%25C9%25A7%25C9%2591%25C6%2596l_%25E1%25B4%25A05_.apk/file
+    v6 [Extreme]: https://www.mediafire.com/file/m5d9vnwvo0j03kq/%25D5%258F%25C9%25A7%25C9%2591%25D5%25B2%25C6%25AC%25C9%25A7%25C9%2591%25C6%2596l_%25E1%25B4%25A06_EXTREME_.apk/file
+    v7 [Extreme]: https://www.mediafire.com/file/tqm83t413pq08os/%25D5%258F%25C9%25A7%25C9%2591%25D5%25B2%25C6%25AC%25C9%25A7%25C9%2591%25C6%2596l_%25E1%25B4%25A07_EXTREME_.apk/file
+    v8 [Extreme]: https://www.mediafire.com/file/pmsraepwyyx0rpg/%25D5%258F%25C9%25A7%25C9%2591%25D5%25B2%25C6%25AC%25C9%25A7%25C9%2591%25C6%2596l_%25E1%25B4%25A08_EXTREME_.apk/file
+    v9 [Corregido]: https://www.mediafire.com/file/ckoc88rktfv2jo0/%25D5%258F%25C9%25A7%25C9%2591%25D5%25B2%25C6%25AC%25C9%25A7%25C9%2591%25C6%2596l_%25E1%25B4%25A09.F_CORREGIDO_.apk/file
+    v10 [ZIP: extrae el APK]: https://www.mediafire.com/file/921mtpjr7xdwasw/%25D5%258F%25C9%25A7%25C9%2591%25D5%25B2%25C6%25AC%25C9%25A7%25C9%2591%25C6%2596l_%25E1%25B4%25A010_By_EL_TAURO_MODS_.zip/file
+    v11 [Anti-ban]: https://www.mediafire.com/file/9qlx2x57r1k5x5g/%25D5%258F%25C9%25A7%25C9%2591%25D5%25B2%25C6%25AC%25C9%25A7%25C9%2591%25C6%2596l_%25E1%25B4%25A011_By_EL_TAURO_MODS_ANTI-BAN_.apk/file
+  ★ v12 [Extreme]: https://www.mediafire.com/file/xa15hiihpx2axud/SHANTHALL_V12-EXTREME_.apk/file
+
+----------------------------------------------------
+TWICE (última: v9)
+----------------------------------------------------
+Twice es un mod de WhatsApp de El Tauro Mods con identidad propia, nacido de una modificación muy bien trabajada de Fouad sobre la base OG WhatsApp de Plus WhatsApp. Su primer nombre fue Maniaca (v2) y después pasó a llamarse Twice. Desde entonces se desarrolla sobre TM WhatsApp, la base más antigua y completa que ha usado Tauro, y que sigue usando hoy. Su historial va de la v3 a la v9, con ediciones Extreme. Su interfaz se viste de tonos lila, a juego con el icono, y puedes cambiarla por completo con temas, colores, fondos y estilos propios. En privacidad permite ocultar la última conexión, los ticks azules, el «escribiendo» y el «grabando», además de ver los mensajes y estados que tus contactos eliminan. También incluye envío de imágenes en alta calidad, descarga de estados y bloqueo de la app con PIN o patrón.
+
+Bases utilizadas: OG WhatsApp (Plus WhatsApp) → TM WhatsApp
+
+Versiones (★ = última versión):
+    v3: https://www.mediafire.com/file/z71dirycndu6kk6/%25E2%258F%25A4%25CD%259F%25CD%259E%25CD%259F%25CD%259E%25F0%259D%259A%25BB%25F0%259D%2590%2596%25F0%259D%259A%25B0%25F0%259D%2590%2582%25F0%259D%259A%25B5_%25F0%259D%259A%25B3%25F0%259D%259A%25AF%25F0%259D%2590%2583_%25F0%259D%2590%2595%25F0%259D%259F%2591%25E2%259D%25A6%25EF%25B8%258E.apk/file
+    v4: https://www.mediafire.com/file/ba98pu6pn5p060c/%25E2%258F%25A4%25CD%259F%25CD%259E%25CD%259F%25CD%259E%25F0%259D%259A%25BB%25F0%259D%2590%2596%25F0%259D%259A%25B0%25F0%259D%2590%2582%25F0%259D%259A%25B5_%25F0%259D%259A%25B3%25F0%259D%259A%25AF%25F0%259D%2590%2583_%25F0%259D%2590%2595%25F0%259D%259F%2592%25E2%259D%25A6%25EF%25B8%258E_.apk/file
+    v5: https://www.mediafire.com/file/y15bdy1zn76wtes/%25E2%258F%25A4%25CD%259F%25CD%259E%25CD%259F%25CD%259E%25F0%259D%259A%25BB%25F0%259D%2590%2596%25F0%259D%259A%25B0%25F0%259D%2590%2582%25F0%259D%259A%25B5_%25F0%259D%259A%25B3%25F0%259D%259A%25AF%25F0%259D%2590%2583_%25F0%259D%2590%2595%25F0%259D%259F%2593%25E2%259D%25A6%25EF%25B8%258E_.apk/file
+    v6: https://www.mediafire.com/file/jhrba2wg9ufsaja/%25E2%258F%25A4%25CD%259F%25CD%259E%25CD%259F%25CD%259E%25F0%2591%2581%258D%25F0%259D%259A%25BB%25F0%259D%2590%2596%25F0%259D%259A%25B0%25F0%259D%2590%2582%25F0%259D%259A%25B5_%25F0%259D%259A%25B3%25F0%259D%259A%25AF%25F0%259D%2590%2583_%25F0%259D%2590%2595%25F0%259D%259F%2594%25E2%259D%25A6%25EF%25B8%258E__TM_MODS.apk/file
+    v7: https://www.mediafire.com/file/mc54xxfcsxpbcme/%25E2%258F%25A4%25CD%259F%25CD%259E%25CD%259F%25CD%259E%25F0%2591%2581%258D%25F0%259D%259A%25BB%25F0%259D%2590%2596%25F0%259D%259A%25B0%25F0%259D%2590%2582%25F0%259D%259A%25B5_%25F0%259D%259A%25B3%25F0%259D%259A%25AF%25F0%259D%2590%2583_%25F0%259D%2590%2595%25F0%259D%259F%2595%25E2%259D%25A6%25EF%25B8%258E.apk/file
+    v8 [Extreme]: https://www.mediafire.com/file/rmdu7xotzsyxtqs/%25E2%258F%25A4%25CD%259F%25CD%259E%25CD%259F%25CD%259E%25F0%2591%2581%258D%25F0%259D%259A%25BB%25F0%259D%2590%2596%25F0%259D%259A%25B0%25F0%259D%2590%2582%25F0%259D%259A%25B5_%25F0%259D%259A%25B3%25F0%259D%259A%25AF%25F0%259D%2590%2583_%25F0%259D%2590%2595%25F0%259D%259F%2596%25E2%259D%25A6%25EF%25B8%258E_EXTREME_.apk/file
+  ★ v9 [Extreme]: https://www.mediafire.com/file/wp4gi9vknqxei1z/%25E2%258F%25A4%25CD%259F%25CD%259E%25CD%259F%25CD%259E%25F0%2591%2581%258D%25F0%259D%259A%25BB%25F0%259D%2590%2596%25F0%259D%259A%25B0%25F0%259D%2590%2582%25F0%259D%259A%25B5_%25F0%259D%259A%25B3%25F0%259D%259A%25AF%25F0%259D%2590%2583_%25F0%259D%2590%2595%25F0%259D%259F%2597%25E2%259D%25A6%25EF%25B8%258E_EXTREME_.apk/file
+
+----------------------------------------------------
+DEAD (última: v3)
+----------------------------------------------------
+Dead es un mod de WhatsApp de El Tauro Mods con carácter propio, nacido sobre la base The Legend. Esa base se eligió por su apartado de escritura, muy completo y lleno de extras. Más adelante pasó a una base de figura árabe, también muy buena, con bastante más personalización. Tiene tres versiones: v1 Extreme, v2 Resurrección y la v3. Su interfaz se viste de tonos rojo, a juego con el icono, y puedes cambiarla por completo con temas, colores, fondos y estilos propios. En privacidad permite ocultar la última conexión, los ticks azules, el «escribiendo» y el «grabando», además de ver los mensajes y estados que tus contactos eliminan. También incluye envío de imágenes en alta calidad, descarga de estados y bloqueo de la app con PIN o patrón.
+
+Bases utilizadas: The Legend → base árabe personalizada
+
+Versiones (★ = última versión):
+    v1 [Extreme]: https://www.mediafire.com/file/587bf0m1eqxtq7z/%25F0%259D%2590%2583%25F0%259D%259E%25A2%25F0%259D%259A%25AB%25F0%259D%2590%2583_%25E2%25A9%2594%25F0%259D%259F%258F_EXTREME_.apk/file
+    v2 [Resurrección]: https://www.mediafire.com/file/ej2l8ip8etr6tta/%25F0%259D%2590%2583%25D0%2584%25F0%259D%259A%25AB%25F0%259D%2590%2583_%25E2%25A9%2594%25F0%259D%259F%2590_RESURRECCI%25C3%2593N_F.apk/file
+  ★ v3: https://www.mediafire.com/file/5kqvizvn69k9oci/%25F0%259D%2590%2583%25F0%259D%259A%25B5%25F0%259D%259A%25AB%25F0%259D%2590%2583_%25E2%25A9%2594%25F0%259D%259F%2591_TM-Mods.apk/file
+
+----------------------------------------------------
+TOXIC (última: v8)
+----------------------------------------------------
+Toxic es el mod de WhatsApp Business de El Tauro Mods, elegido por su privacidad y su diseño. Se desarrolló sobre WA Business Gold, después sobre AKR Business y, por último, sobre WA Business de Abu Saleh. Destaca por un estilo cercano a Fouad, con el logo de perfil circular en la pantalla de inicio. Su historial va de la v1 a la v8, con ediciones Extreme y una versión secundaria para instalar junto a otra copia. Su interfaz se viste de tonos verde lima, a juego con el icono, y puedes cambiarla por completo con temas, colores, fondos y estilos propios. En privacidad permite ocultar la última conexión, los ticks azules, el «escribiendo» y el «grabando», además de ver los mensajes y estados que tus contactos eliminan. También incluye envío de imágenes en alta calidad, descarga de estados y bloqueo de la app con PIN o patrón.
+
+Bases utilizadas: WA Business Gold → AKR Business → WA Business (Abu Saleh)
+
+Versiones (★ = última versión):
+    v1: https://www.mediafire.com/file/1k61i8o2wbb1axt/%25C6%25AC%25C6%25A0%25D3%25BC%25C9%25A8%25C6%2587_%25E1%258F%25B0%25D5%25B4%25D5%258F%25C9%25A8%25C9%25B3%25CE%25B5%25CA%2582%25E1%258F%2595%25E1%25A5%25AB%25E1%25AD%25A1_2.22.12.77.apk/file
+    v2: https://www.mediafire.com/file/y754c43n40l9w17/%25C6%25AC%25C6%25A0%25D3%25BC%25C9%25A8%25C6%2587_%25E2%25A9%25942.apk/file
+    v3: https://www.mediafire.com/file/dyyt7vid2ejxw1q/%25C6%25AC%25C6%25A0%25D3%25BC%25C9%25A8%25C6%2587_%25E2%25A9%25943.apk/file
+    v4 [Extreme]: https://www.mediafire.com/file/kta6m679a83bakg/%25C6%25AC%25C6%25A0%25D3%25BC%25C9%25A8%25C6%2587_%25E2%25A9%25944_EXTREME_.apk/file
+    v5 [Extreme]: https://www.mediafire.com/file/cokd3ipkey90x4l/%25C6%25AC%25C6%25A0%25D3%25BC%25C9%25A8%25C6%2587_%25E2%25A9%25945_EXTREME_.apk/file
+    v6 [Paquete secundario]: https://www.mediafire.com/file/689xn513hl9mii4/%25C6%25AC%25C6%25A0%25D3%25BC%25C9%25A8%25C6%2587_%25E2%25A9%25946_SECUNDARIO_.apk/file
+  ★ v8 [Carpeta con varios paquetes]: https://www.mediafire.com/folder/6dtg8pe2gwb7u/Mods+Business+Masculino+y+Femeninos+v8
+
+----------------------------------------------------
+MUSHINESS (última: v8)
+----------------------------------------------------
+Mushiness es la versión femenina de Toxic: se construye a partir de él y se rediseña con otra información, iconos y colores. Se desarrolló sobre WA Business Gold de Abu3rab y luego sobre YM WhatsApp Business; también se intentó AKR WhatsApp Business, pero el intento quedó a medias. Su base original venía íntegramente en inglés. Su historial va de la v1 (Kashiness) a la v8, con ediciones Extreme y versión secundaria. Su interfaz se viste de tonos rosa, a juego con el icono, y puedes cambiarla por completo con temas, colores, fondos y estilos propios. En privacidad permite ocultar la última conexión, los ticks azules, el «escribiendo» y el «grabando», además de ver los mensajes y estados que tus contactos eliminan. También incluye envío de imágenes en alta calidad, descarga de estados y bloqueo de la app con PIN o patrón.
+
+Bases utilizadas: WA Business Gold (Abu3rab) → YM WhatsApp Business
+
+Versiones (★ = última versión):
+    v1 (Kashiness): https://www.mediafire.com/file/34kqznu48eui2y9/%25C6%2598%25C9%2591%25D5%258F%25C9%25A7%25C9%25AA%25C5%258B%25E0%25AB%25AFss_%25E2%25A9%25941_mod.apk/file
+    v2: https://www.mediafire.com/file/uyz7femoro671ql/%25E2%258F%25A4%25CD%259F%25CD%259E%25CD%259F%25CD%259E%25E2%2598%2585M%25CF%2585%25D1%2595%25D0%25BD%25CE%25B9%25CE%25B7%25D1%2594%25D1%2595%25D1%2595_%25E1%25B4%25A02%25E2%25B8%2599.apk/file
+    v3: https://www.mediafire.com/file/j3p16n7xpvtttqb/%25E2%258F%25A4%25CD%259F%25CD%259E%25CD%259F%25CD%259E%25E2%2598%2585M%25CF%2585%25D1%2595%25D0%25BD%25CE%25B9%25CE%25B7%25D1%2594%25D1%2595%25D1%2595_%25E1%25B4%25A03%25E2%25B8%2599%255B1%255D.apk/file
+    v4 [Extreme]: https://www.mediafire.com/file/zxwrr8742nygynh/%25E2%258F%25A4%25CD%259F%25CD%259E%25CD%259F%25CD%259E%25E2%2598%2585M%25CF%2585%25D1%2595%25D0%25BD%25CE%25B9%25CE%25B7%25D1%2594%25D1%2595%25D1%2595_%25E1%25B4%25A04%25E2%25B8%2599_EXTREME_.apk/file
+    v5 [Extreme]: https://www.mediafire.com/file/exyfsqttzp63ore/%25E2%258F%25A4%25CD%259F%25CD%259E%25CD%259F%25CD%259E%25E2%2598%2585M%25CF%2585%25D1%2595%25D0%25BD%25CE%25B9%25CE%25B7%25D1%2594%25D1%2595%25D1%2595_%25E1%25B4%25A05%25E2%25B8%2599_EXTREME_.apk/file
+    v6 [Paquete secundario]: https://www.mediafire.com/file/52ftbq1bfxb48on/%25E2%258F%25A4%25CD%259F%25CD%259E%25CD%259F%25CD%259E%25E2%2598%2585M%25CF%2585%25D1%2595%25D0%25BD%25CE%25B9%25CE%25B7%25D1%2594%25D1%2595%25D1%2595_%25E1%25B4%25A06%25E2%25B8%2599_SECUDARIO_.apk/file
+  ★ v8 [Carpeta con varios paquetes]: https://www.mediafire.com/folder/6dtg8pe2gwb7u/Mods+Business+Masculino+y+Femeninos+v8
+
+----------------------------------------------------
+COSPLAYS (última: v10)
+----------------------------------------------------
+Cosplays es un mod de WhatsApp de El Tauro Mods en color celeste, sencillo y muy vistoso, que llegó a ser de los más populares del momento. Nació de una colaboración con un compañero de tercero de secundaria que era su gran fan. Se trabajó sobre WA Mix de Nairo, luego sobre YM WhatsApp y volvió a WA Mix, que ofrecía una tarjeta de diseño en cada chat. Su historial va de la v5.5 a la v10, con ediciones Extreme. Su interfaz se viste de tonos celeste, a juego con el icono, y puedes cambiarla por completo con temas, colores, fondos y estilos propios. En privacidad permite ocultar la última conexión, los ticks azules, el «escribiendo» y el «grabando», además de ver los mensajes y estados que tus contactos eliminan. También incluye envío de imágenes en alta calidad, descarga de estados y bloqueo de la app con PIN o patrón.
+
+Bases utilizadas: WA Mix → YM WhatsApp → WA Mix
+
+Versiones (★ = última versión):
+    v5.5: https://www.mediafire.com/file/ugsks439aiv2bs1/%25E2%258F%25A4%25CD%259F%25CD%259E%25CD%259F%25CD%259E%25E2%2598%2585%25F0%259D%2590%2582%25E3%2580%2584%25F0%259D%2590%2592%25F0%259D%259A%25B8%25F0%259D%2590%258B%25F0%259D%259A%25AB%25F0%259D%259A%25BF%25F0%259D%2590%2592_%25F0%259D%2590%2595%25F0%259D%259F%2593.%25F0%259D%259F%2593%25E2%2581%258D.apk/file
+    v6: https://www.mediafire.com/file/t7vo19d5ljbo8rv/%25E2%258F%25A4%25CD%259F%25CD%259E%25CD%259F%25CD%259E%25E2%2598%2585%25F0%259D%2590%2582%25E3%2580%2584%25F0%259D%2590%2592%25F0%259D%259A%25B8%25F0%259D%2590%258B%25F0%259D%259A%25AB%25F0%259D%259A%25BF%25F0%259D%2590%2592_%25F0%259D%2590%2595%25F0%259D%259F%2594%25E2%2581%258D.apk/file
+    v7: https://www.mediafire.com/file/llqstyqg6th2vzi/%25E2%258F%25A4%25CD%259F%25CD%259E%25CD%259F%25CD%259E%25E2%2598%2585%25F0%259D%2590%2582%25E3%2580%2584%25F0%259D%2590%2592%25F0%259D%259A%25B8%25F0%259D%2590%258B%25F0%259D%259A%25AB%25F0%259D%259A%25BF%25F0%259D%2590%2592_%25F0%259D%2590%2595%25F0%259D%259F%2595%25E2%2581%258D.apk/file
+    v8 [Extreme]: https://www.mediafire.com/file/o0wlzpx5xosrah4/%25E2%258F%25A4%25CD%259F%25CD%259E%25CD%259F%25CD%259E%25E2%2598%2585%25F0%259D%2590%2582%25E3%2580%2584%25F0%259D%2590%2592%25F0%259D%259A%25B8%25F0%259D%2590%258B%25F0%259D%259A%25AB%25F0%259D%259A%25BF%25F0%259D%2590%2592_%25F0%259D%2590%2595%25F0%259D%259F%2596%25E2%2581%258D_EXTREME_.apk/file
+    v9 [Extreme]: https://www.mediafire.com/file/vod3o9rs43d7b8q/%25E2%258F%25A4%25CD%259F%25CD%259E%25CD%259F%25CD%259E%25E2%2598%2585%25F0%259D%2590%2582%25E3%2580%2584%25F0%259D%2590%2592%25F0%259D%259A%25B8%25F0%259D%2590%258B%25F0%259D%259A%25AB%25F0%259D%259A%25BF%25F0%259D%2590%2592_%25F0%259D%2590%2595%25F0%259D%259F%2597%25E2%2581%258D_EXTREME_.apk/file
+  ★ v10 [Extreme]: https://www.mediafire.com/file/iget25ag8bnx48h/%25E2%258F%25A4%25CD%259F%25CD%259E%25CD%259F%25CD%259E%25E2%2598%2585%25F0%259D%2590%2582%25E3%2580%2584%25F0%259D%2590%2592%25F0%259D%259A%25B8%25F0%259D%2590%258B%25F0%259D%259A%25AB%25F0%259D%259A%25BF%25F0%259D%2590%2592_%25F0%259D%2590%2595%25F0%259D%259F%258F%25F0%259D%259F%258E%25E2%2581%258D_EXTREME_2.24.3.82_.apk/file
+
+----------------------------------------------------
+CRMESSI (última: v11)
+----------------------------------------------------
+CRMessi es el mod de WhatsApp de El Tauro Mods inspirado en el fútbol, sin referirse a ningún equipo en concreto. Nació sobre SAM Mods (WhatsApp Gold Mini), una base completamente en inglés, y después se trabajó en NS WhatsApp de Nairton Silva (Brasil). Su primer nombre fue Mbappé V1, luego pasó a PSG y finalmente a CRMessi. Su historial va de la v7 (PSG) a la v11. Su interfaz se viste de tonos azul, a juego con el icono, y puedes cambiarla por completo con temas, colores, fondos y estilos propios. En privacidad permite ocultar la última conexión, los ticks azules, el «escribiendo» y el «grabando», además de ver los mensajes y estados que tus contactos eliminan. También incluye envío de imágenes en alta calidad, descarga de estados y bloqueo de la app con PIN o patrón.
+
+Bases utilizadas: SAM Mods (WhatsApp Gold Mini) → NS WhatsApp
+
+Versiones (★ = última versión):
+    v7 (PSG): https://www.mediafire.com/file/rflgagjfynllm13/%25E2%259E%25A3%25CD%259C%25CD%25A1%25E0%25B9%258F%25C6%25A4%25D5%258F%25C6%2593_%25D1%25B57_.apk/file
+    v8 (PSG) [Extreme]: https://www.mediafire.com/file/knxxcii54umfqqz/%25E2%259C%25AA%25EF%25B8%258E%25C6%25A4%25D5%258F%25C6%2593_%25F0%259D%259B%258E8%25E2%259C%25AF_EXTREME_.apk/file
+    v9 (PSG) [Corregido]: https://www.mediafire.com/file/mmy34oax29fld8j/%25E2%259C%25AA%25EF%25B8%258E%25C6%25A4%25D5%258F%25C6%2593_%25D1%25B4%25F0%259D%259F%2597.F%25E2%259C%25AD%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593_CORREGIDO_.apk/file
+    v10 (PSG) [ZIP: extrae el APK]: https://www.mediafire.com/file/uzoujfpc2kzmrfz/%25E2%259C%25AA%25EF%25B8%258E%25C6%25A4%25D5%258F%25C6%2593_%25D1%25B4%25F0%259D%259F%258F%25F0%259D%259F%258E%25E2%259C%25AD%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593%25CD%2593_By-TAURO_MODS_.zip/file
+  ★ v11 [ZIP: extrae el APK]: https://www.mediafire.com/file/w9n9pnf0j96b4jm/%25E2%259C%25AA%25EF%25B8%258E%25E1%25A5%25AB%25C6%25A6%25F0%259F%2585%25BC%25D1%2594ss%25C9%25A8_%25D1%25B4%25F0%259D%259F%258F%25F0%259D%259F%258F%25E2%259C%25AD_BY_EL_TAURO_MODS_.zip/file
+
+----------------------------------------------------
+ARMY BTS (última: v11)
+----------------------------------------------------
+Army BTS es un mod de WhatsApp de El Tauro Mods con diseños muy cuidados y un acabado 3D completo. Se desarrolló sobre la base Nairo Mods y después en NS WhatsApp de Nairton Silva (Brasil), donde esa base dejó de recibir actualizaciones. Su historial va de la v3 a la v11 e incluye ediciones Extreme y corregidas. Su interfaz se viste de tonos morado, a juego con el icono, y puedes cambiarla por completo con temas, colores, fondos y estilos propios. En privacidad permite ocultar la última conexión, los ticks azules, el «escribiendo» y el «grabando», además de ver los mensajes y estados que tus contactos eliminan. También incluye envío de imágenes en alta calidad, descarga de estados y bloqueo de la app con PIN o patrón.
+
+Bases utilizadas: Nairo Mods → NS WhatsApp
+
+Versiones (★ = última versión):
+    v3: https://www.mediafire.com/file/rab5tsd7uuc0ye5/%25E2%259C%259E%25EF%25B8%258E%25E2%259D%25A6%25EF%25B8%258E%25C8%25BA%25CA%2580%25C9%25B1%25CA%258F_%25C6%2581%25C6%25AC%25C5%259E%25E2%259D%25A6%25EF%25B8%258E%25E2%259C%259E%25EF%25B8%258E_V%25CC%25B83.apk/file
+    v4: https://www.mediafire.com/file/njztyxyh33p07uz/%25E2%259C%259E%25EF%25B8%258E%25E2%259D%25A6%25EF%25B8%258E%25CE%259B%25C6%25A6M%25C6%25B3_%25C6%2581%25C6%25AC%25C5%259E%25E2%259D%25A6%25EF%25B8%258E%25E2%259C%259E%25EF%25B8%258E_%25E2%25A9%25944.apk/file
+    v5: https://www.mediafire.com/file/038ffsqufmfo505/%25E2%259C%259E%25EF%25B8%258E%25E2%259D%25A6%25EF%25B8%258E%25CE%259B%25C6%25A6M%25C6%25B3_%25C6%2581%25C6%25AC%25C5%259E%25E2%259D%25A6%25EF%25B8%258E%25E2%259C%259E%25EF%25B8%258E_%25E2%25A9%25945.apk/file
+    v6: https://www.mediafire.com/file/jmbp5ofb0b1odw8/%25E2%259E%25A3%25CD%259C%25CD%25A1%25E0%25B9%258F%25E1%25AD%2584%25F0%259D%259A%25A8%25F0%259D%2590%2591%25F0%259D%259A%25B3%25F0%259D%259C%25B0_%25F0%259D%259A%25A9%25F0%259D%259A%25BB%25F0%259D%2590%2592_%25E2%25A9%2594%25F0%259D%259F%2594%25E2%259C%25AE_.apk/file
+    v7 [Extreme]: https://www.mediafire.com/file/jv0nm864h0n5fpz/%25E2%259E%25A3%25CD%259C%25CD%25A1%25E0%25B9%258F%25E1%25AD%2584%25F0%259D%259A%25A8%25F0%259D%2590%2591%25F0%259D%259A%25B3%25F0%259D%259A%25BF_%25F0%259D%259A%25A9%25F0%259D%259A%25BB%25F0%259D%2590%2592_%25D1%25B4%25F0%259D%259F%2595_EXTREME_.apk/file
+    v8 [Extreme]: https://www.mediafire.com/file/qg93f4cnpsv5kwr/%25E2%259E%25A3%25CD%259C%25CD%25A1%25E0%25B9%258F%25E1%25AD%2584%25F0%259D%259A%25A8%25F0%259D%2590%2591%25F0%259D%259A%25B3%25F0%259D%259A%25BF_%25F0%259D%259A%25A9%25F0%259D%259A%25BB%25F0%259D%2590%2592_%25D1%25B4%25F0%259D%259F%2596_EXTREME_.apk/file
+    v9 [Corregido]: https://www.mediafire.com/file/bc469li1urp7vhf/%25E2%259E%25A3%25CD%259C%25CD%25A1%25E0%25B9%258F%25E1%25AD%2584%25F0%259D%259A%25A8%25F0%259D%2590%2591%25F0%259D%259A%25B3%25F0%259D%259A%25BF_%25F0%259D%259A%25A9%25F0%259D%259A%25BB%25F0%259D%2590%2592_%25D1%25B4%25F0%259D%259F%2597.F_CORREGIDO_.apk/file
+    v10 [ZIP: extrae el APK]: https://www.mediafire.com/file/3xid19a9tbfw2g3/%25E2%259E%25A3%25CD%259C%25CD%25A1%25E0%25B9%258F%25E1%25AD%2584%25F0%259D%259A%25A8%25F0%259D%2590%2591%25F0%259D%259A%25B3%25F0%259D%259A%25BF_%25F0%259D%259A%25A9%25F0%259D%259A%25BB%25F0%259D%2590%2592_%25D1%25B4%25F0%259D%259F%258F%25F0%259D%259F%258E_By_TAURO_MODS_.zip/file
+  ★ v11: https://www.mediafire.com/file/hkx1yvg80l930aw/%25E2%259E%25A3%25CD%259C%25CD%25A1%25E0%25B9%258F%25E1%25AD%2584%25F0%259D%259A%25A8%25F0%259D%2590%2591%25F0%259D%259A%25B3%25F0%259D%259A%25BF_%25F0%259D%259A%25A9%25F0%259D%259A%25BB%25F0%259D%2590%2592_%25D1%25B4%25F0%259D%259F%258F%25F0%259D%259F%258F_BY_TAURO_MODS_.apk/file
+
+----------------------------------------------------
+HARUMY (última: v13)
+----------------------------------------------------
+Harumy es el primer mod de WhatsApp de El Tauro Mods, nacido en 2022 sobre la base WAMIX de Nairo Mods (Colombia). Con los años pasó por KM WhatsApp de Kharis Mods, RC WhatsApp iOS de Omar Shafkey y una base estilo Delta mini, siempre con estética iOS. Su historial va de la v2 a la v13 e incluye ediciones Extreme y de resurrección. Su interfaz se viste de tonos morado, a juego con el icono, y puedes cambiarla por completo con temas, colores, fondos y estilos propios. En privacidad permite ocultar la última conexión, los ticks azules, el «escribiendo» y el «grabando», además de ver los mensajes y estados que tus contactos eliminan. También incluye envío de imágenes en alta calidad, descarga de estados y bloqueo de la app con PIN o patrón.
+
+Bases utilizadas: WAMIX → KM WhatsApp → RC WhatsApp iOS
+
+Versiones (★ = última versión):
+    v2: https://www.mediafire.com/file/opbj7ml1k7ut5bl/Harumy_v2_2.22.2.73_sign.apk/file
+    v4: https://www.mediafire.com/file/lm3sz9k7if03mn5/%25E2%259D%25A6%25C9%25A7%25C9%2591%25C9%25BE%25D5%25B4%25C9%25B1%25E1%2583%25A7_V4%25EA%25A8%2584_2.22.2.73_sign.apk/file
+    v5: https://www.mediafire.com/file/r3zxe06cpvcdmd9/%25E2%259D%25A6%25C9%25A7%25C9%2591%25C9%25BE%25D5%25B4%25C9%25B1%25E1%2583%25A7_V5%25EA%25A8%2584_2.22.10.73_sign.apk/file
+    v6: https://www.mediafire.com/file/pvnazk6m70012p8/%25E2%259D%25A6%25C9%25A7%25C9%2591%25C9%25BE%25D5%25B4%25C9%25B1%25E1%2583%25A7_V6%25EA%25A8%2584.apk/file
+    v7: https://www.mediafire.com/file/l9vpdai9y4kiu27/%25E2%259D%25A6%25C9%25A7%25C9%2591%25C9%25BE%25D5%25B4%25C9%25B1%25E1%2583%25A7_V7%25EA%25A8%2584.apk/file
+    v8: https://www.mediafire.com/file/ksswkorz06rncwh/%25E2%259D%25A6%25C9%25A7%25C9%2591%25C9%25BE%25D5%25B4%25C9%25B1%25E1%2583%25A7_V8%25EA%25A8%2584.apk/file
+    v9 [Extreme]: https://www.mediafire.com/file/g8o17bpvr00ijcp/%25E2%259D%25A6%25C9%25A7%25C9%2591%25C9%25BE%25D5%25B4%25C9%25B1%25E1%2583%25A7_V9%25EA%25A8%2584_EXTREME_.apk/file
+    v10 [Resurrección]: https://www.mediafire.com/file/5fuf820qv8bsr9w/%25E2%259D%25A6%25C9%25A7%25C9%2591%25C9%25BE%25D5%25B4%25C9%25B1%25E1%2583%25A7_V10%25EA%25A8%2584_RESURRECCI%25C3%2593N_.apk/file
+    v11 [Extreme]: https://www.mediafire.com/file/fkde1jurjjy6zkz/%25E2%259D%25A6%25C9%25A7%25C9%2591%25C9%25BE%25D5%25B4%25C9%25B1%25E1%2583%25A7_V11%25EA%25A8%2584_iOS_EXTREME_TM_MODS.apk/file
+    v12: https://www.mediafire.com/file/8bwke2ugc2m98dy/%25E2%259D%25A6%25C9%25A7%25C9%2591%25C9%25BE%25D5%25B4%25C9%25B1%25E1%2583%25A7_V12%25EA%25A8%2584_iOS_TM_MODS.apk/file
+  ★ v13: https://www.mediafire.com/file/2n1lo0jy915dmyv/%25E2%259D%25A6%25C9%25A7%25C9%2591%25C9%25BE%25D5%25B4%25C9%25B1%25E1%2583%25A7_V13%25EA%25A8%2584_iOS_By-TauroMods_.apk/file
+
+----------------------------------------------------
+KNWHATSAPP (última: v2.00)
+----------------------------------------------------
+KNWhatsApp es el mod de WhatsApp de El Tauro Mods inspirado en el KNPesino (Canserbero), desarrollado entre julio y septiembre de 2024. Su primera versión fue morada, después cambió a vinotinto y una edición especial rindió homenaje a Venezuela. Se construyó sobre una base árabe que venía sucia e inmunizada, y hubo que limpiarla con la ayuda de Cubano Mods. Llegó hasta la v2; la v3 se terminó, pero nunca se publicó. Su interfaz se viste de tonos vinotinto, a juego con el icono, y puedes cambiarla por completo con temas, colores, fondos y estilos propios. En privacidad permite ocultar la última conexión, los ticks azules, el «escribiendo» y el «grabando», además de ver los mensajes y estados que tus contactos eliminan. También incluye envío de imágenes en alta calidad, descarga de estados y bloqueo de la app con PIN o patrón.
+
+Bases utilizadas: Base árabe limpiada
+
+Versiones (★ = última versión):
+    v1: https://www.mediafire.com/file/hh6wmqm1qvp3y3k/KNWHATSAPP_%2528PACKAGE_2%2529_BY_TAURO_MODS_.apk/file
+    v1 (paquete 3): https://www.mediafire.com/file/z7wz9zyqiske72l/KNWHATSAPP_%2528PACKAGE_3%2529_BY_TAURO_MODS_.apk/file
+  ★ v2: https://www.mediafire.com/file/ae0a78tgjimr2jc/KNWhatsApp_v2.00t_%2528com.knwa%2529_TM_MODS_.apk/file
+  ★ v2 (com.knwhatsapp): https://www.mediafire.com/file/uybq5az6l096n8q/KNWhatsApp_v2.00t_%2528com.knwhatsapp%2529_TM_MODS_.apk/file
+
+----------------------------------------------------
+MUÑECA (diseño femenino · v13 en la web)
+----------------------------------------------------
+Muñeco & Muñeca nació sobre la base ANWhatsApp de Ammar Alawadi; la Muñeca (diseño femenino) fue la primera y el Muñeco (masculino) llegó después. Pasó por la base FB WhatsApp / WhatsApp Gold de Abu3rab, luego por DHWhatsApp (estilo iOS, similar a KM WhatsApp, con fecha y hora al tocar el cuadro izquierdo del home, fuentes y emojis) y hoy se sigue actualizando sobre una base similar. Es el proyecto de la casa que se mantiene más al día: privacidad completa, imágenes en HD, efectos visuales, inmunidad ante virus, tarjetas de privacidad y apartado Tauro Team. La v13 de ambos está en la web con descarga protegida.
+
+Bases utilizadas: ANWhatsApp → FB WhatsApp / WhatsApp Gold → DHWhatsApp → base similar
+
+Versiones (★ = última versión):
+    v1: https://www.mediafire.com/file/x5nd9qmimojztuf/%25E2%259D%25A6%25EA%25AA%2591%25CA%258A%25EA%25AA%2580%25CC%2583%25EA%25AB%2580%25E1%25A5%25B4%25EA%25AA%2596_%25E2%25B1%25B1-1%25E2%259D%25A6.apk/file
+    v2: https://www.mediafire.com/file/2ntg11on7k88f9m/%25E2%259D%25A6%25EA%25AA%2591%25CA%258A%25EA%25AA%2580%25CC%2583%25EA%25AB%2580%25E1%25A5%25B4%25EA%25AA%2596_%25E2%25B1%25B1-2%25E2%259D%25A6.apk/file
+    v3: https://www.mediafire.com/file/e0qz1qcfbyza68m/%25E2%259D%25A6%25EA%25AA%2591%25CA%258A%25EA%25AA%2580%25CC%2583%25EA%25AB%2580%25E1%25A5%25B4%25EA%25AA%2596_%25E2%25B1%25B1-3%25E2%259D%25A6.apk/file
+    v4: https://www.mediafire.com/file/twrpcknw2fjz2lp/%25E2%259D%25A6%25EA%25AA%2591%25CA%258A%25EA%25AA%2580%25CC%2583%25EA%25AB%2580%25E1%25A5%25B4%25EA%25AA%2596_%25E2%25B1%25B1-4%25E2%259D%25A6.apk/file
+    v5 [Extreme]: https://www.mediafire.com/file/ubxpxdsbhyg8rex/%25E2%259D%25A6%25EA%25AA%2591%25CA%258A%25EA%25AA%2580%25CC%2583%25EA%25AB%2580%25E1%25A5%25B4%25EA%25AA%2596_%25E2%25B1%25B1-5%25E2%259D%25A6_EXTREME_.apk/file
+    v6 [Extreme]: https://www.mediafire.com/file/qn3tt8onlbom4wb/%25E2%259D%25A6%25EA%25AA%2591%25CA%258A%25EA%25AA%2580%25CC%2583%25EA%25AB%2580%25E1%25A5%25B4%25EA%25AA%2596_%25E2%25B1%25B1-6%25E2%259D%25A6_EXTREME_.apk/file
+    v7 [Paquete secundario]: https://www.mediafire.com/file/9qfxc9nn79f49an/%25E2%259D%25A6%25EA%25AA%2591%25CA%258A%25EA%25AA%2580%25CC%2583%25EA%25AB%2580%25E1%25A5%25B4%25EA%25AA%2596_%25E2%25B1%25B1-7%25E2%259D%25A6_SECUNDARIO_.apk/file
+    v8: https://www.mediafire.com/file/jx5uwr03aoaqz16/%25E2%259D%25A6%25E2%25B1%25AE%25CA%258A%25EA%25AA%2580%25CC%2583%25EA%25AB%2580%25E1%25A5%25B4%25EA%25AA%2596_%25E2%25B1%25B1-8%25E2%259D%25A6_%2528COM.MODDERWHATSAPP%2529_.apk/file
+    v9 [Fix]: https://www.mediafire.com/file/6ft9re0awevi5ia/%25E2%259D%25A6%25E2%25B1%25AE%25CA%258A%25EA%25AA%2580%25CC%2583%25EA%25AB%2580%25E1%25A5%25B4%25EA%25AA%2596_%25E2%25B1%25B1-9%25E2%259D%25A6_FIX_EXTENDED_.apk/file
+    v10 [Carpeta con varios paquetes]: https://www.mediafire.com/folder/eqs7oazvbg93m/MU%C3%91ECOS+V10+-+BY+TAURO
+    v11 [Fix · Carpeta con varios paquetes]: https://www.mediafire.com/folder/uedhrie2hduls/MU%C3%91ECOS+V11+-+FIX
+    v12 [Carpeta con varios paquetes]: https://www.mediafire.com/folder/txs18k44nxifu/MU%C3%91ECOS+V12
+
+----------------------------------------------------
+MUÑECO (diseño masculino · v13 en la web)
+----------------------------------------------------
+Versión masculina de Muñeca, con el mismo origen, funciones y evolución.
+
+Bases utilizadas: Las mismas que Muñeca
+
+Versiones (★ = última versión):
+    v4.5: https://www.mediafire.com/file/qu9y8mdfr6f5993/%25E2%259D%25A6M%25E0%25B1%25AE%25F0%259D%2591%25B5%25CC%2583%25E1%258F%258B%25EA%2589%2594%25C3%2598_%25E2%25B1%25B1-4.5%25E2%259D%25A6_.apk/file
+    v5 [Extreme]: https://www.mediafire.com/file/xfbrqouzfodyd1v/%25E2%259D%25A6%25EA%25AA%2591%25CA%258A%25EA%25AA%2580%25CC%2583%25EA%25AB%2580%25E1%25A5%25B4%25EA%25AA%25AE_%25E2%25B1%25B1-5%25E2%259D%25A6_EXTREME_.apk/file
+    v6 [Extreme]: https://www.mediafire.com/file/4fho14yfs9mj2rl/%25E2%259D%25A6%25EA%25AA%2591%25CA%258A%25EA%25AA%2580%25CC%2583%25EA%25AB%2580%25E1%25A5%25B4o_%25E2%25B1%25B1-6%25E2%259D%25A6_EXTREME_.apk/file
+    v7 [Paquete secundario]: https://www.mediafire.com/file/2850ssvjvf7e27o/%25E2%259D%25A6%25EA%25AA%2591%25CA%258A%25EA%25AA%2580%25CC%2583%25EA%25AB%2580%25E1%25A5%25B4%25EA%25AA%25AE_%25E2%25B1%25B1-7%25E2%259D%25A6_SECUNDARIO_.apk/file
+    v8: https://www.mediafire.com/file/26xjwhbiu413dwy/%25E2%259D%25A6%25E2%25B1%25AE%25CA%258A%25EA%25AA%2580%25CC%2583%25EA%25AB%2580%25E1%25A5%25B4%25EA%25AA%25AE_%25E2%25B1%25B1-8%25E2%259D%25A6_2.25.36.73_.apk/file
+    v9 [Fix]: https://www.mediafire.com/file/ed97v1bfyu1ao81/%25E2%259D%25A6%25E2%25B1%25AE%25CA%258A%25EA%25AA%2580%25CC%2583%25EA%25AB%2580%25E1%25A5%25B4%25EA%25AA%25AE_%25E2%25B1%25B1-9%25E2%259D%25A6_FIX_EXTENDED_.apk/file
+    v10 [Carpeta con varios paquetes]: https://www.mediafire.com/folder/eqs7oazvbg93m/MU%C3%91ECOS+V10+-+BY+TAURO
+    v11 [Fix · Carpeta con varios paquetes]: https://www.mediafire.com/folder/uedhrie2hduls/MU%C3%91ECOS+V11+-+FIX
+    v12 [Carpeta con varios paquetes]: https://www.mediafire.com/folder/txs18k44nxifu/MU%C3%91ECOS+V12
+
+----------------------------------------------------
+NOTAS
+----------------------------------------------------
+· Las carpetas de MediaFire (v7 y v8 de WA Messenger +; v8 de Toxic y Mushiness; v10-v12 de Muñeco y Muñeca) contienen varios paquetes.
+· Los archivos marcados como ZIP hay que extraerlos para obtener el APK.
+· Faltan en la lista las versiones sin enlace: WA Messenger + v5 y Shanthall v13.
+
+En la web, la última versión de cada mod se descarga con verificación por pasos y las anteriores con enlace directo.
+
+Un recuerdo especial para Jesús Enrique Meza Rivera, gran modder que empezó a modificar WhatsApp en 2022 aprendiendo con tutoriales de YouTube, y que en 2024 se alejó de los mods para estudiar y convertirse en ingeniero de sistemas. ¡Mucho éxito, crack!
+
+                                   BY EL TAURO MODS
